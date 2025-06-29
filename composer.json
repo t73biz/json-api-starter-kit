@@ -8,10 +8,10 @@
         "framework",
         "t73biz",
         "json-api",
-        "json:api"
+        "json api"
     ],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": "^8.2",
         "laravel-json-api/laravel": "^5.1",
