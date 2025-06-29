@@ -11,6 +11,7 @@
         "json:api"
     ],
     "license": "MIT",
+    "version": "1.0.0",
     "require": {
         "php": "^8.2",
         "laravel-json-api/laravel": "^5.1",
